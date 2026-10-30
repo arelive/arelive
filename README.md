@@ -362,13 +362,23 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=ffffff)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0067b8?style=flat&logo=windows&logoColor=ffffff)
 
+![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=flat&logo=zsh&logoColor=ffffff)
+![tmux](https://img.shields.io/badge/tmux-1bb91f?style=flat&logo=tmux&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git-f03c2e?style=flat&logo=git&logoColor=ffffff)
+
 ![i3](https://img.shields.io/badge/i3-52c0ff?style=flat&logo=i3&logoColor=ffffff)
 ![bspwm](https://img.shields.io/badge/bspwm-2e2e2e?style=flat&logo=bspwm&logoColor=ffffff)
 ![Sway](https://img.shields.io/badge/Sway-68751c?style=flat&logo=sway&logoColor=ffffff)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58e1ff?style=flat&logo=hyprland&logoColor=000000)
-![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=flat&logo=zsh&logoColor=ffffff)
-![tmux](https://img.shields.io/badge/tmux-1bb91f?style=flat&logo=tmux&logoColor=ffffff)
-![Git](https://img.shields.io/badge/git-f03c2e?style=flat&logo=git&logoColor=ffffff)
+
+![kitty](https://img.shields.io/badge/kitty-000000?style=flat&logo=kitty&logoColor=ffffff)
+![Firefox](https://img.shields.io/badge/firefox-ff7139?style=flat&logo=firefox&logoColor=ffffff)
+![VLC](https://img.shields.io/badge/VLC-ff8800?style=flat&logo=vlcmediaplayer&logoColor=ffffff)
+![GIMP](https://img.shields.io/badge/GIMP-8c8073?style=flat&logo=gimp&logoColor=ffffff)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=ffffff)
+![Krita](https://img.shields.io/badge/Krita-3babff?style=flat&logo=krita&logoColor=ffffff)
+![Audacity](https://img.shields.io/badge/Audacity-0000cc?style=flat&logo=audacity&logoColor=ffffff)
+![OBS](https://img.shields.io/badge/OBS-302e31?style=flat&logo=obsstudio&logoColor=ffffff)
 
 ![Neovim](https://img.shields.io/badge/Neovim-57a143?style=flat&logo=neovim&logoColor=ffffff)
 ![VSCodium](https://img.shields.io/badge/vscodium-2f80ed?style=flat&logo=vscodium&logoColor=ffffff)
@@ -378,9 +388,12 @@
 ## , - , `ls contact`_
 
 [![Telegram: @arelive](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/arelive)
+[![Discord: @arelive](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://t.me/arelive)
+
 [![Twitter: @ctreyls](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/ctreyls)
 [![Habr: @arelive](https://img.shields.io/badge/Habr-65a3be?style=for-the-badge&logo=habr&logoColor=ffffff)](https://habr.com/ru/users/arelive)
 [![Reddit: @arelive](https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/arelive)
+
 [![Steam: @arelive](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/arelive)
 [![YouTube: @arebaka](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@arebaka)
 [![SoundCloud: @arelive](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/arelive)
