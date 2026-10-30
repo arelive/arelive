@@ -385,7 +385,7 @@
 [![YouTube: @arebaka](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@arebaka)
 [![SoundCloud: @arelive](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/arelive)
 
-## ($,,$) `ls fund`_
+## ($ ,, $) `ls fund`_
 
 [![Patreon](https://img.shields.io/badge/Patreon-arelive-f96854?style=for-the-badge&logo=patreon&labelColor=000000)](https://www.patreon.com/arelive)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-arelive-ff6433?style=for-the-badge&logo=kofi&labelColor=000000)](https://ko-fi.com/arelive)
