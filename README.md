@@ -125,13 +125,13 @@
 
 ###### UX/UI
 
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=ffffff)
 ![Material Design](https://img.shields.io/badge/Material_Design-6750a4?style=flat&logo=materialdesign&logoColor=ffffff)
 ![MUI](https://img.shields.io/badge/Material_UI-007fff?style=flat&logo=mui&logoColor=ffffff)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170fe?style=flat&logo=antdesign&logoColor=ffffff)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-1bb2a9?style=flat&logo=chakraui&logoColor=ffffff)
 ![GSAP](https://img.shields.io/badge/GSAP-0ae448?style=flat&logo=gsap&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=ffffff)
 
 ###### SSG
 
@@ -176,6 +176,7 @@
 ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat&logo=trpc&logoColor=ffffff)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6ba539?style=flat&logo=openapiinitiative&logoColor=ffffff)
 ![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=flat&logo=swagger&logoColor=000000)
+![Charles](https://img.shields.io/badge/Charles-f3f5f5?style=flat&logo=charles&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat&logo=postman&logoColor=ffffff)
 
 ###### databases
@@ -184,15 +185,19 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=ffffff)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/Redis-ff4438?style=flat&logo=redis&logoColor=ffffff)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287b1?style=flat&logo=apache-cassandra&logoColor=ffffff)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-ffcc01?style=flat&logo=clickhouse&logoColor=000000)
 ![DuckDB](https://img.shields.io/badge/DuckDB-fff000?style=flat&logo=duckdb&logoColor=000000)
+
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=ffffff)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581c3?style=flat&logo=neo4j&logoColor=ffffff)
 ![Flyway](https://img.shields.io/badge/Flyway-cc0200?style=flat&logo=flyway&logoColor=ffffff)
+
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962ff?style=flat&logo=liquibase&logoColor=ffffff)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=ffffff)
 
 ###### ORM
 
@@ -217,11 +222,13 @@
 ###### brokers
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?style=flat&logo=rabbitmq&logoColor=ffffff)
+![Celery](https://img.shields.io/badge/Celery-37814a?style=flat&logo=celery&logoColor=ffffff)
 ![Kafka](https://img.shields.io/badge/Kafka-231f20?style=flat&logo=apachekafka&logoColor=ffffff)
 
 ###### build
 
 ![Make](https://img.shields.io/badge/Make-6d00cc?style=flat&logo=make&logoColor=ffffff)
+![LLVM](https://img.shields.io/badge/LLVM-262d3a?style=flat&logo=llvm&logoColor=ffffff)
 ![CMake](https://img.shields.io/badge/CMake-064f8c?style=flat&logo=cmake&logoColor=ffffff)
 ![Meson](https://img.shields.io/badge/Meson-39207c?style=flat&logo=meson&logoColor=ffffff)
 ![Ninja](https://img.shields.io/badge/Ninja-000000?style=flat&logo=ninja&logoColor=ffffff)
@@ -260,7 +267,8 @@
 
 ###### CI/CD
 
-![Git](https://img.shields.io/badge/git-f03c2e?style=flat&logo=git&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-f03c2e?style=flat&logo=git&logoColor=ffffff)
+![Git LFS](https://img.shields.io/badge/Git_LFS-f64935?style=flat&logo=gitlfs&logoColor=ffffff)
 ![commitlint](https://img.shields.io/badge/commitlint-000000?style=flat&logo=commitlint&logoColor=ffffff) (
 ![Conventional Commits](https://img.shields.io/badge/conventionalcommits-fe5196?style=flat&logo=conventionalcommits&logoColor=ffffff)
 )
@@ -304,8 +312,10 @@
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=ffffff)
 ![Nmap](https://img.shields.io/badge/Nmap-2a0d45?style=flat&logo=nmap&logoColor=ffffff)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003a70?style=flat&logo=letsencrypt&logoColor=ffffff)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat&logo=wireshark&logoColor=ffffff)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-ea7e20?style=flat&logo=openvpn&logoColor=ffffff)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171a?style=flat&logo=wireguard&logoColor=ffffff)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557c94?style=flat&logo=kalilinux&logoColor=ffffff)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679a7?style=flat&logo=wireshark&logoColor=ffffff)
 
 ###### cloud
 
@@ -356,10 +366,12 @@
 ![GDB](https://img.shields.io/badge/GDB-a42e2b?style=flat&logo=gnu&logoColor=ffffff)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-000000?style=flat&logo=openocd&logoColor=ffffff)
 ![QEMU](https://img.shields.io/badge/QEMU-ff6600?style=flat&logo=qemu&logoColor=ffffff)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878f?style=flat&logo=arduino&logoColor=ffffff)
 ![KiCad](https://img.shields.io/badge/KiCad-314cb0?style=flat&logo=kicad&logoColor=ffffff)
 
 ###### desktop
 
+![GTK](https://img.shields.io/badge/GTK-7fe719?style=flat&logo=gtk&logoColor=ffffff)
 ![Qt](https://img.shields.io/badge/Qt-41cd52?style=flat&logo=qt&logoColor=ffffff)
 ![Electron](https://img.shields.io/badge/Electron-47848f?style=flat&logo=electron&logoColor=ffffff)
 ![Wails](https://img.shields.io/badge/Wails-df0000?style=flat&logo=wails&logoColor=ffffff)
@@ -369,6 +381,7 @@
 ![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=flat&logo=dioxus&logoColor=ffffff)
 ![Tauri](https://img.shields.io/badge/Tauri-24c8d8?style=flat&logo=tauri&logoColor=ffffff)
 ![Slint](https://img.shields.io/badge/Slint-2379f4?style=flat&logo=slint&logoColor=ffffff)
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-41cd52?style=flat&logo=qt&logoColor=ffffff)
 
 ###### mobile
 
@@ -379,11 +392,10 @@
 ![Fastlane](https://img.shields.io/badge/Fastlane-00f200?style=flat&logo=fastlane&logoColor=ffffff)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=ffffff)
 ![F-Droid](https://img.shields.io/badge/F--Droid-1976d2?style=flat&logo=fdroid&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=flat&logo=androidstudio&logoColor=ffffff)
 
 ###### graphics
 
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=ffffff)
-![ImageMagick](https://img.shields.io/badge/ImageMagick-ff000?style=flat&logo=imagemagick&logoColor=ffffff)
 ![SVG](https://img.shields.io/badge/SVG-ffb13b?style=flat&logo=svg&logoColor=000000)
 ![SVGO](https://img.shields.io/badge/SVGO-3e7fc1?style=flat&logo=svgo&logoColor=ffffff)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586a4?style=flat&logo=opengl&logoColor=ffffff)
@@ -392,8 +404,30 @@
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=ffffff)
 ![WebGPU](https://img.shields.io/badge/WebGPU-005a9c?style=flat&logo=webgpu&logoColor=ffffff)
 
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=ffffff)
+![ImageMagick](https://img.shields.io/badge/ImageMagick-ff000?style=flat&logo=imagemagick&logoColor=ffffff)
+![Pinta](https://img.shields.io/badge/Pinta-3465a4?style=flat&logo=pinta&logoColor=ffffff)
+![GIMP](https://img.shields.io/badge/GIMP-8c8073?style=flat&logo=gimp&logoColor=ffffff)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=ffffff)
+![Krita](https://img.shields.io/badge/Krita-3babff?style=flat&logo=krita&logoColor=ffffff)
+
+###### 3D
+
+![Blender](https://img.shields.io/badge/Blender-e87d0d?style=flat&logo=blender&logoColor=ffffff)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-418fde?style=flat&logo=freecad&logoColor=ffffff)
+![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-009789?style=flat&logo=orcaslicer&logoColor=ffffff)
+![Lychee Slicer](https://img.shields.io/badge/Lychee_Slicer-ee7768?style=flat&logo=orcaslicer&logoColor=ffffff)
+
+###### Media
+
+![Audacity](https://img.shields.io/badge/Audacity-0000cc?style=flat&logo=audacity&logoColor=ffffff)
+![FL Studio](https://img.shields.io/badge/FL_Studio-ff7629?style=flat&logo=flstudio&logoColor=ffffff)
+![OBS](https://img.shields.io/badge/OBS-302e31?style=flat&logo=obsstudio&logoColor=ffffff)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-527eb2?style=flat&logo=kdenlive&logoColor=ffffff)
+
 ###### gamedev
 
+![Scratch](https://img.shields.io/badge/Scratch-855cd6?style=flat&logo=scratch&logoColor=ffffff)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-ff7f7f?style=flat&logo=renpy&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/Unity-ffffff?style=flat&logo=unity&logoColor=000000)
 ![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godotengine&logoColor=ffffff)
@@ -415,6 +449,7 @@
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-285479?style=flat&logo=matplotlib&logoColor=ffffff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat&logo=seaborn&logoColor=ffffff)
+![Chart.js](https://img.shields.io/badge/Chart.js-ff6384?style=flat&logo=chart.js&logoColor=ffffff)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=ffffff)
 ![D3](https://img.shields.io/badge/D3-f9a03c?style=flat&logo=d3&logoColor=ffffff)
 
@@ -438,6 +473,8 @@
 
 ## \`\` _ \`\` `ls environment/*`_
 
+###### hardware
+
 ![ThinkCentre M720q](https://img.shields.io/badge/ThinkCentre_M720q-e2231a?style=flat&logo=lenovo&logoColor=ffffff)
 ![ThinkPad X1 Yoga Gen 8](https://img.shields.io/badge/ThinkPad_X1_Yoga_Gen_8-ee2624?style=flat&logo=thinkpad&logoColor=ffffff)
 ![ThinkPad E15 Gen 2](https://img.shields.io/badge/ThinkPad_E15_Gen_2-ee2624?style=flat&logo=thinkpad&logoColor=ffffff)
@@ -450,6 +487,8 @@
 ![QNAP TS-664](https://img.shields.io/badge/QNAP_TS--664-0c2e82?style=flat&logo=qnap&logoColor=ffffff)
 ![Ender 3](https://img.shields.io/badge/Ender--3-329a40?style=flat&logo=creality&logoColor=ffffff)
 
+###### system
+
 ![Debian](https://img.shields.io/badge/Debian-a81d33?style=flat&logo=debian&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/Arch-1793d1?style=flat&logo=archlinux&logoColor=ffffff)
 ![Artix](https://img.shields.io/badge/Artix-10a0cc?style=flat&logo=artixlinux&logoColor=ffffff)
@@ -459,47 +498,76 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=ffffff)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0067b8?style=flat&logo=windows&logoColor=ffffff)
 
+###### shell
+
 ![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=flat&logo=zsh&logoColor=ffffff)
 ![tmux](https://img.shields.io/badge/tmux-1bb91f?style=flat&logo=tmux&logoColor=ffffff)
+![fzf](https://img.shields.io/badge/fzf-ff5f87?style=flat&logo=fzf&logoColor=ffffff)
+![bat](https://img.shields.io/badge/bat-31369e?style=flat&logo=bat&logoColor=ffffff)
 ![Homebrew](https://img.shields.io/badge/Homebrew-fbb040?style=flat&logo=homebrew&logoColor=000000)
+![kitty](https://img.shields.io/badge/kitty-000000?style=flat&logo=kitty&logoColor=ffffff)
+![Starship](https://img.shields.io/badge/Starship-dd0b78?style=flat&logo=starship&logoColor=ffffff)
+
+###### desktop
 
 ![i3](https://img.shields.io/badge/i3-52c0ff?style=flat&logo=i3&logoColor=ffffff)
 ![bspwm](https://img.shields.io/badge/bspwm-2e2e2e?style=flat&logo=bspwm&logoColor=ffffff)
 ![Sway](https://img.shields.io/badge/Sway-68751c?style=flat&logo=sway&logoColor=ffffff)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58e1ff?style=flat&logo=hyprland&logoColor=000000)
+![Waybar](https://img.shields.io/badge/Waybar-64727d?style=flat&logo=waybar&logoColor=ffffff)
+![Rofi](https://img.shields.io/badge/Rofi-000000?style=flat&logo=rofi&logoColor=ffffff)
+![mako](https://img.shields.io/badge/mako-285577?style=flat&logo=mako&logoColor=ffffff)
 
----
-
-![kitty](https://img.shields.io/badge/kitty-000000?style=flat&logo=kitty&logoColor=ffffff)
-![Firefox](https://img.shields.io/badge/firefox-ff7139?style=flat&logo=firefox&logoColor=ffffff)
-![VLC](https://img.shields.io/badge/VLC-ff8800?style=flat&logo=vlcmediaplayer&logoColor=ffffff)
+###### editors
 
 ![Neovim](https://img.shields.io/badge/Neovim-57a143?style=flat&logo=neovim&logoColor=ffffff)
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=flat&logo=gnuemacs&logoColor=ffffff)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-ff9800?style=flat&logo=sublimetext&logoColor=ffffff)
-![Qt Creator](https://img.shields.io/badge/Qt_Creator-41cd52?style=flat&logo=qt&logoColor=ffffff)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878f?style=flat&logo=arduino&logoColor=ffffff)
 ![VSCodium](https://img.shields.io/badge/vscodium-2f80ed?style=flat&logo=vscodium&logoColor=ffffff)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=flat&logo=androidstudio&logoColor=ffffff)
 ![Zed](https://img.shields.io/badge/Zed-084ccf?style=flat&logo=zedindustries&logoColor=ffffff)
+![ImHex](https://img.shields.io/badge/ImHex-2b50a1?style=flat&logo=imhex&logoColor=ffffff)
 
-![GIMP](https://img.shields.io/badge/GIMP-8c8073?style=flat&logo=gimp&logoColor=ffffff)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=ffffff)
-![Krita](https://img.shields.io/badge/Krita-3babff?style=flat&logo=krita&logoColor=ffffff)
+###### network
 
-![Audacity](https://img.shields.io/badge/Audacity-0000cc?style=flat&logo=audacity&logoColor=ffffff)
-![FL Studio](https://img.shields.io/badge/FL_Studio-ff7629?style=flat&logo=flstudio&logoColor=ffffff)
+![Firefox](https://img.shields.io/badge/firefox-ff7139?style=flat&logo=firefox&logoColor=ffffff)
+![VLC](https://img.shields.io/badge/VLC-ff8800?style=flat&logo=vlcmediaplayer&logoColor=ffffff)
+![FreeTube](https://img.shields.io/badge/FreeTube-f04242?style=flat&logo=freetube&logoColor=ffffff)
+![qbittorrent](https://img.shields.io/badge/qbittorrent-2f67ba?style=flat&logo=qbittorrent&logoColor=ffffff)
+![FileZilla](https://img.shields.io/badge/FileZilla-bf0000?style=flat&logo=filezilla&logoColor=ffffff)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-ef443b?style=flat&logo=anydesk&logoColor=ffffff)
 
-![OBS](https://img.shields.io/badge/OBS-302e31?style=flat&logo=obsstudio&logoColor=ffffff)
-![Kdenlive](https://img.shields.io/badge/Kdenlive-527eb2?style=flat&logo=kdenlive&logoColor=ffffff)
+###### chat
 
-![Blender](https://img.shields.io/badge/Blender-e87d0d?style=flat&logo=blender&logoColor=ffffff)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-418fde?style=flat&logo=freecad&logoColor=ffffff)
+![64Gram](https://img.shields.io/badge/64Gram-26a5e4?style=flat&logo=telegram&logoColor=ffffff)
+![Vencord](https://img.shields.io/badge/Vencord-eb7396?style=flat&logo=vencord&logoColor=ffffff)
+![Element](https://img.shields.io/badge/Element-0dbd8b?style=flat&logo=element&logoColor=ffffff)
+![LINE](https://img.shields.io/badge/LINE-00c300?style=flat&logo=line&logoColor=ffffff)
+![Zoom](https://img.shields.io/badge/Zoom-0b5cff?style=flat&logo=zoom&logoColor=ffffff)
+
+###### office
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff)
+![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat&logo=obsidian&logoColor=ffffff)
+![LibreOffice Writer](https://img.shields.io/badge/LibreOffice_Writer-083fa6?style=flat&logo=libreofficewriter&logoColor=ffffff)
+![LibreOffice Calc](https://img.shields.io/badge/LibreOffice_Calc-007c3c?style=flat&logo=libreofficecalc&logoColor=ffffff)
+![LibreOffice Impress](https://img.shields.io/badge/LibreOffice_Impress-d0120d?style=flat&logo=libreofficeimpress&logoColor=ffffff)
+
+###### games
+
+![Millennium](https://img.shields.io/badge/Millennium-000000?style=flat&logo=steam&logoColor=ffffff)
+![osu!](https://img.shields.io/badge/osu!-ff66aa?style=flat&logo=osu&logoColor=ffffff)
+![Minecraft](https://img.shields.io/badge/Minecraft-4a7227?style=flat&logo=minecraft&logoColor=ffffff)
+
+###### virtualization
+
+![Wine](https://img.shields.io/badge/Wine-800000?style=flat&logo=wine&logoColor=ffffff)
+![DOSBox](https://img.shields.io/badge/DOSBox-0000aa?style=flat&logo=dosbox&logoColor=ffffff)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2f61B4?style=flat&logo=virtualbox&logoColor=ffffff)
 
 ## , - , `ls contact`_
 
 [![Telegram: @arelive](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/arelive)
-[![Discord: @arelive](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://t.me/arelive)
+[![Discord: @arelive](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/461583461904416768)
 
 [![Twitter: @ctreyls](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/ctreyls)
 [![Habr: @arelive](https://img.shields.io/badge/Habr-65a3be?style=for-the-badge&logo=habr&logoColor=ffffff)](https://habr.com/ru/users/arelive)
