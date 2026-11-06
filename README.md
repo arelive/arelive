@@ -207,7 +207,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52b0e7?style=flat&logo=sequelize&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat&logo=prisma&logoColor=ffffff)
 ![GORM](https://img.shields.io/badge/GORM-38b6ff?style=flat&logo=go&logoColor=ffffff)
-![Diesel](https://img.shields.io/badge/Diesel-ffcd57?style=flat&logo=diesel&logoColor=000000)
+![Diesel](https://img.shields.io/badge/Diesel-ff2727?style=flat&logo=diesel&logoColor=000000)
 ![SeaORM](https://img.shields.io/badge/SeaORM-186ac1?style=flat&logo=seaorm&logoColor=ffffff)
 
 ###### validation
@@ -313,7 +313,7 @@
 ###### security
 
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=ffffff)
-![Nmap](https://img.shields.io/badge/Nmap-2a0d45?style=flat&logo=nmap&logoColor=ffffff)
+![Nmap](https://img.shields.io/badge/Nmap-45beee?style=flat&logo=nmap&logoColor=ffffff)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003a70?style=flat&logo=letsencrypt&logoColor=ffffff)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-ea7e20?style=flat&logo=openvpn&logoColor=ffffff)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171a?style=flat&logo=wireguard&logoColor=ffffff)
@@ -351,7 +351,7 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-f5822a?style=flat&logo=platformio&logoColor=ffffff)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-e7352c?style=flat&logo=espressif&logoColor=ffffff)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2b2728?style=flat&logo=micropython&logoColor=ffffff)
-![Embassy](https://img.shields.io/badge/Embassy-d34516?style=flat&logo=embassy&logoColor=ffffff)
+![Embassy](https://img.shields.io/badge/Embassy-ff9900?style=flat&logo=embassy&logoColor=ffffff)
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8bc554?style=flat&logo=freertos&logoColor=ffffff)
 ![Zephyr](https://img.shields.io/badge/Zephyr-7929d2?style=flat&logo=zephyr&logoColor=ffffff)
@@ -378,7 +378,7 @@
 ![Qt](https://img.shields.io/badge/Qt-41cd52?style=flat&logo=qt&logoColor=ffffff)
 ![Electron](https://img.shields.io/badge/Electron-47848f?style=flat&logo=electron&logoColor=ffffff)
 ![Wails](https://img.shields.io/badge/Wails-df0000?style=flat&logo=wails&logoColor=ffffff)
-![Fyne](https://img.shields.io/badge/Fyne-03076c?style=flat&logo=fyne&logoColor=ffffff)
+![fyne](https://img.shields.io/badge/fyne-00a6f4?style=flat&logo=fyne&logoColor=ffffff)
 ![egui](https://img.shields.io/badge/egui-000000?style=flat&logo=egui&logoColor=ffffff)
 ![iced](https://img.shields.io/badge/iced-3645ff?style=flat&logo=iced&logoColor=ffffff)
 ![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=flat&logo=dioxus&logoColor=ffffff)
