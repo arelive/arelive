@@ -119,7 +119,6 @@
 ![esbuild](https://img.shields.io/badge/esbuild-ffcf00?style=flat&logo=esbuild&logoColor=000000)
 ![Rolldown](https://img.shields.io/badge/Rolldown-ff4100?style=flat&logo=rolldown&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-9135ff?style=flat&logo=vite&logoColor=ffffff)
-![Turborepo](https://img.shields.io/badge/Turborepo-ff1e56?style=flat&logo=turborepo&logoColor=ffffff)
 
 ![WASM](https://img.shields.io/badge/WASM-654ff0?style=flat&logo=webassembly&logoColor=ffffff)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=ffffff)
@@ -289,6 +288,8 @@
 ![GitLab](https://img.shields.io/badge/GitLab-fc6d26?style=flat&logo=gitlab&logoColor=ffffff)
 ![Argo](https://img.shields.io/badge/Argo-ef7b4d?style=flat&logo=argo&logoColor=ffffff)
 ![Harbor](https://img.shields.io/badge/Harbor-60b932?style=flat&logo=harbor&logoColor=ffffff)
+![Turborepo](https://img.shields.io/badge/Turborepo-ff1e56?style=flat&logo=turborepo&logoColor=ffffff)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=ffffff)
 
 ###### deploy
 
