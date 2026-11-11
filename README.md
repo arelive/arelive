@@ -1,66 +1,66 @@
 # ^,,^ `cd /home/arelive`_
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arebaka&theme=nord_dark" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arelive&theme=nord_dark" alt="stats" />
 <details>
   <summary> -,,- details... </summary>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arebaka&theme=nord_dark" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arebaka&theme=nord_dark&utcOffset=3" alt="commits per day hour" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arebaka&theme=nord_dark" alt="top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arebaka&theme=nord_dark" alt="top languages by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arelive&theme=nord_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arelive&theme=nord_dark&utcOffset=3" alt="commits per day hour" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arelive&theme=nord_dark" alt="top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arelive&theme=nord_dark" alt="top languages by commit" />
 </details>
 
 ## >^ - ^< `ls projects/*`_
 
 ###### DOING
 
-  [![console kitchen](https://img.shields.io/badge/console_kitchen-61dafb?style=flat&logo=react&labelColor=000000)](https://github.com/arebaka/console-kitchen)
-  [![kaze](https://img.shields.io/badge/kaze-d34516?style=flat&logo=rust&labelColor=ffffff&logoColor=d34516)](https://github.com/arebaka/kaze)
+[![console kitchen](https://img.shields.io/badge/console_kitchen-61dafb?style=flat&logo=react&labelColor=000000)](https://github.com/arelive/console-kitchen)
+[![kaze](https://img.shields.io/badge/kaze-d34516?style=flat&logo=rust&labelColor=ffffff&logoColor=d34516)](https://github.com/arelive/kaze)
 
 ###### DONE
 
-  [![stalkee](https://img.shields.io/badge/stalkee-3178c6?style=flat&logo=typescript&labelColor=ffffff)](https://github.com/arebaka/stalkee)
-  [![lena](https://img.shields.io/badge/lena-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arebaka/lena)
-  [![reset.css](https://img.shields.io/badge/reset.css-663399?style=flat&logo=css&labelColor=ffffff&logoColor=663399)](https://github.com/arebaka/reset.css)
-  [![meow](https://img.shields.io/badge/meow-4eaa25?style=flat&logo=gnubash&labelColor=ffffff)](https://github.com/arebaka/meow)
-  [![uncolor](https://img.shields.io/badge/uncolor-4eaa25?style=flat&logo=gnubash&labelColor=ffffff)](https://github.com/arebaka/uncolor)
-  [![notch](https://img.shields.io/badge/notch-4eaa25?style=flat&logo=gnubash&labelColor=ffffff)](https://github.com/arebaka/notch)
-  [![kissvim](https://img.shields.io/badge/kissvim-019733?style=flat&logo=vim&labelColor=ffffff&logoColor=019733)](https://github.com/arebaka/kissvim)
-  [![tgoauth](https://img.shields.io/badge/tgoauth-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arebaka/tgoauth)
-  [![tgbooru](https://img.shields.io/badge/tgbooru-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arebaka/tgbooru)
-  [![logger](https://img.shields.io/badge/logger-3178c6?style=flat&logo=typescript&labelColor=ffffff)](https://github.com/arebaka/logger)
-  [![topbot](https://img.shields.io/badge/topbot-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arebaka/topbot)
-  [![ffpr](https://img.shields.io/badge/ffpr-2c4f7c?style=flat&logo=solid&labelColor=ffffff&logoColor=2c4f7c)](https://github.com/arebaka/ffpr)
-  [![alertify](https://img.shields.io/badge/alertify-d34516?style=flat&logo=rust&labelColor=ffffff&logoColor=d34516)](https://github.com/arebaka/alertify)
+[![stalkee](https://img.shields.io/badge/stalkee-3178c6?style=flat&logo=typescript&labelColor=ffffff)](https://github.com/arelive/stalkee)
+[![lena](https://img.shields.io/badge/lena-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arelive/lena)
+[![reset.css](https://img.shields.io/badge/reset.css-663399?style=flat&logo=css&labelColor=ffffff&logoColor=663399)](https://github.com/arelive/reset.css)
+[![meow](https://img.shields.io/badge/meow-4eaa25?style=flat&logo=gnubash&labelColor=ffffff)](https://github.com/arelive/meow)
+[![uncolor](https://img.shields.io/badge/uncolor-4eaa25?style=flat&logo=gnubash&labelColor=ffffff)](https://github.com/arelive/uncolor)
+[![notch](https://img.shields.io/badge/notch-4eaa25?style=flat&logo=gnubash&labelColor=ffffff)](https://github.com/arelive/notch)
+[![kissvim](https://img.shields.io/badge/kissvim-019733?style=flat&logo=vim&labelColor=ffffff&logoColor=019733)](https://github.com/arelive/kissvim)
+[![tgoauth](https://img.shields.io/badge/tgoauth-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arelive/tgoauth)
+[![tgbooru](https://img.shields.io/badge/tgbooru-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arelive/tgbooru)
+[![logger](https://img.shields.io/badge/logger-3178c6?style=flat&logo=typescript&labelColor=ffffff)](https://github.com/arelive/logger)
+[![topbot](https://img.shields.io/badge/topbot-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arelive/topbot)
+[![ffpr](https://img.shields.io/badge/ffpr-2c4f7c?style=flat&logo=solid&labelColor=ffffff&logoColor=2c4f7c)](https://github.com/arelive/ffpr)
+[![alertify](https://img.shields.io/badge/alertify-d34516?style=flat&logo=rust&labelColor=ffffff&logoColor=d34516)](https://github.com/arelive/alertify)
 
 ###### HOLD
 
-  [![sode.su](https://img.shields.io/badge/sode.su-ff3e00?style=flat&logo=svelte&labelColor=ffffff)](https://github.com/arebaka/sode.su)
-  [![emok](https://img.shields.io/badge/emok-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arebaka/emok)
-  [![fumo](https://img.shields.io/badge/fumo-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arebaka/fumo)
-  [![floppotron](https://img.shields.io/badge/floppotron-00599c?style=flat&logo=cplusplus&labelColor=ffffff&logoColor=00599c)](https://github.com/arebaka/floppotron)
-  [![wlkit](https://img.shields.io/badge/wlkit-00599c?style=flat&logo=cplusplus&labelColor=ffffff&logoColor=00599c)](https://github.com/arebaka/wlkit)
-  [![rei](https://img.shields.io/badge/rei-a8b9cc?style=flat&logo=c&labelColor=000000&logoColor=a8b9cc)](https://github.com/arebaka/rei)
+[![sode.su](https://img.shields.io/badge/sode.su-ff3e00?style=flat&logo=svelte&labelColor=ffffff)](https://github.com/arelive/sode.su)
+[![emok](https://img.shields.io/badge/emok-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arelive/emok)
+[![fumo](https://img.shields.io/badge/fumo-f7df1e?style=flat&logo=javascript&labelColor=000000)](https://github.com/arelive/fumo)
+[![floppotron](https://img.shields.io/badge/floppotron-00599c?style=flat&logo=cplusplus&labelColor=ffffff&logoColor=00599c)](https://github.com/arelive/floppotron)
+[![wlkit](https://img.shields.io/badge/wlkit-00599c?style=flat&logo=cplusplus&labelColor=ffffff&logoColor=00599c)](https://github.com/arelive/wlkit)
+[![rei](https://img.shields.io/badge/rei-a8b9cc?style=flat&logo=c&labelColor=000000&logoColor=a8b9cc)](https://github.com/arelive/rei)
 
 ###### TODO
 
-  ![web components library](https://img.shields.io/badge/web_components_library-000000?style=flat)
-  ![captcha service](https://img.shields.io/badge/captcha_service-000000?style=flat)
-  ![platform of knowledge](https://img.shields.io/badge/platform_of_knowledge-000000?style=flat)
-  ![cloud for media](https://img.shields.io/badge/cloud_for_media-000000?style=flat)
-  ![dashboard for Telegram chats](https://img.shields.io/badge/dashboard_for_Telegram_chats-000000?style=flat)
-  ![image format for TTY and colorized code dumps](https://img.shields.io/badge/image_format_for_TTY_and_colorized_code_dumps-000000?style=flat)
-  ![upgrade of XMPP protocol](https://img.shields.io/badge/upgrade_of_XMPP_protocol-000000?style=flat)
-  ![URL shortener with useragent variator](https://img.shields.io/badge/URL_shortener_with_useragent_variator-000000?style=flat)
-  ![web search engine for geeks](https://img.shields.io/badge/web_search_engine_for_geeks-000000?style=flat)
-  ![simple markup language for creating formatting text](https://img.shields.io/badge/simple_markup_language_for_creating_formatting_text-000000?style=flat)
-  ![reactive markup language](https://img.shields.io/badge/reactive_markup_language-000000?style=flat)
-  ![console web browser using native reactivity](https://img.shields.io/badge/console_web_browser_using_native_reactivity-000000?style=flat)
-  ![MUD engine for messengers](https://img.shields.io/badge/MUD_engine_for_messengers-000000?style=flat)
-  ![code editor of my dreams](https://img.shields.io/badge/text/code_editor_of_my_dreams-000000?style=flat)
+![web components library](https://img.shields.io/badge/web_components_library-000000?style=flat)
+![captcha service](https://img.shields.io/badge/captcha_service-000000?style=flat)
+![platform of knowledge](https://img.shields.io/badge/platform_of_knowledge-000000?style=flat)
+![cloud for media](https://img.shields.io/badge/cloud_for_media-000000?style=flat)
+![dashboard for Telegram chats](https://img.shields.io/badge/dashboard_for_Telegram_chats-000000?style=flat)
+![image format for TTY and colorized code dumps](https://img.shields.io/badge/image_format_for_TTY_and_colorized_code_dumps-000000?style=flat)
+![upgrade of XMPP protocol](https://img.shields.io/badge/upgrade_of_XMPP_protocol-000000?style=flat)
+![URL shortener with useragent variator](https://img.shields.io/badge/URL_shortener_with_useragent_variator-000000?style=flat)
+![web search engine for geeks](https://img.shields.io/badge/web_search_engine_for_geeks-000000?style=flat)
+![simple markup language for creating formatting text](https://img.shields.io/badge/simple_markup_language_for_creating_formatting_text-000000?style=flat)
+![reactive markup language](https://img.shields.io/badge/reactive_markup_language-000000?style=flat)
+![console web browser using native reactivity](https://img.shields.io/badge/console_web_browser_using_native_reactivity-000000?style=flat)
+![MUD engine for messengers](https://img.shields.io/badge/MUD_engine_for_messengers-000000?style=flat)
+![code editor of my dreams](https://img.shields.io/badge/text/code_editor_of_my_dreams-000000?style=flat)
 
 ###### DROP
 
-  ![none](https://img.shields.io/badge/404_Not_Found-000000?style=flat)
+![none](https://img.shields.io/badge/404_Not_Found-000000?style=flat)
 
 ## >,,< `ls skills/*`_
 
